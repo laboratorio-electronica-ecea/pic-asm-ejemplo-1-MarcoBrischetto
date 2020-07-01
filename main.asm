@@ -1,6 +1,6 @@
 ;*******************************************************************************
 ;    Nombre del archivo - main.asm                                             *
-;    Autor:                                                                    *
+;    Autor: Marco Brischetto                                                   *
 ;    Descripción:                                                              *
 ;        Este es un programa ejemplo que define los bits de configuración y    *
 ;        utiliza variables.                                                    *
